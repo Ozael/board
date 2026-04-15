@@ -10,7 +10,7 @@ O sistema permite organizar atividades em colunas, facilitando o acompanhamento 
 - Java
 - JDBC
 - Liquibase
-- PostgreSQL (ou outro banco relacional)
+- MySQL
 - Lombok
 
 ---
