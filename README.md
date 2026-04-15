@@ -22,6 +22,6 @@ O projeto segue uma estrutura simples e organizada em camadas:
 - **Config** → configuração de conexão com banco
 - **Persistence** → acesso a dados (DAO / Repository)
 - **Migration** → controle de versionamento do banco com Liquibase
-- **Domain** → regras de negócio (se houver)
+- **Domain** → regras de negócio
 
 ---
